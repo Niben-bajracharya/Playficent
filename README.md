@@ -47,4 +47,8 @@ npm run dev
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License. See `LICENSE` for details.
+=======
+This project does not include a license by default. Add a license file if you want to share or publish the code.
+>>>>>>> c6bb717a27e58e62f5184134e3f92c00a776ab0a
