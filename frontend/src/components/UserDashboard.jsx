@@ -651,7 +651,6 @@ export default function UserDashboard({ onPlayGame, onLogout, refreshTrigger, on
                         }}>{Math.round(userStats.average_score)}</div>
                       </div>
                     </div>
-
                     {/* Per Difficulty Stats */}
                     <div>
                       <h3 className="text-xl mb-4" style={{ textShadow: '0 0 8px #39FF14' }}>BEST BY DIFFICULTY</h3>
